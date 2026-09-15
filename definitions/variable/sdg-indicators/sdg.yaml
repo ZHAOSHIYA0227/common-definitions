@@ -327,6 +327,937 @@
     sdg: 10
     weight: Population
     shape: Inequality|Bottom 40% average income|Ratio
+
+- Consumption|Alcohol and tabacco|D1 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Alcohol and tabacco|D10 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Alcohol and tabacco|D2 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Alcohol and tabacco|D3 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Alcohol and tabacco|D4 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Alcohol and tabacco|D5 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Alcohol and tabacco|D6 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Alcohol and tabacco|D7 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Alcohol and tabacco|D8 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Alcohol and tabacco|D9 [Share]:
+    description: Share of alcohol and tobacco expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Clothing|D1 [Share]:
+    description: Share of clothing expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Clothing|D2 [Share]:
+    description: Share of clothing expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Clothing|D3 [Share]:
+    description: Share of clothing expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Clothing|D4 [Share]:
+    description: Share of clothing expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Clothing|D5 [Share]:
+    description: Share of clothing expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Clothing|D6 [Share]:
+    description: Share of clothing expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10 
+- Consumption|Clothing|D7 [Share]: 
+    description: Share of clothing expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Clothing|D8 [Share]:  
+    description: Share of clothing expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10 
+- Consumption|Clothing|D9 [Share]:
+    description: Share of clothing expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D1 [Share]:
+    description: Share of education expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D10 [Share]:
+    description: Share of education expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D2 [Share]:
+    description: Share of education expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D3 [Share]:
+    description: Share of education expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D4 [Share]:
+    description: Share of education expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D5 [Share]:
+    description: Share of education expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D6 [Share]:
+    description: Share of education expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D7 [Share]:
+    description: Share of education expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D8 [Share]:
+    description: Share of education expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Education|D9 [Share]:
+    description: Share of education expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+
+- Consumption|Food|D1 [Share]: 
+    description: Share of food expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Food|D10 [Share]:
+    description: Share of food expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Food|D2 [Share]:
+    description: Share of food expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Food|D3 [Share]:
+    description: Share of food expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Food|D4 [Share]:
+    description: Share of food expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Food|D5 [Share]:
+    description: Share of food expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Food|D6 [Share]:
+    description: Share of food expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Food|D7 [Share]:
+    description: Share of food expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Food|D8 [Share]:
+    description: Share of food expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Food|D9 [Share]:
+    description: Share of food expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D1 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D10 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D2 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D3 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D4 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D5 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D6 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D7 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D8 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Furnishings and maintenance|D9 [Share]:
+    description: Share of furnishings and maintenance expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D1 [Share]:
+    description: Share of health expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D10 [Share]:
+    description: Share of health expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D2 [Share]:
+    description: Share of health expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D3 [Share]:
+    description: Share of health expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D4 [Share]:
+    description: Share of health expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D5 [Share]:
+    description: Share of health expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D6 [Share]:
+    description: Share of health expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D7 [Share]:
+    description: Share of health expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D8 [Share]:
+    description: Share of health expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Health|D9 [Share]:
+    description: Share of health expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D1 [Share]:
+    description: Share of housing water and energy expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D10 [Share]:
+    description: Share of housing water and energy expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D2 [Share]:
+    description: Share of housing water and energy expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D3 [Share]:
+    description: Share of housing water and energy expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D4 [Share]:
+    description: Share of housing water and energy expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D5 [Share]:
+    description: Share of housing water and energy expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D6 [Share]:
+    description: Share of housing water and energy expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D7 [Share]:
+    description: Share of housing water and energy expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D8 [Share]:
+    description: Share of housing water and energy expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing water and energy|D9 [Share]:
+    description: Share of housing water and energy expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Energy|D1 [Share]:
+    description: Share of energy expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Energy|D10 [Share]:
+    description: Share of energy expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Energy|D2 [Share]:
+    description: Share of energy expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Energy|D3 [Share]:
+    description: Share of energy expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Energy|D4 [Share]:
+    description: Share of energy expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10 
+- Consumption|Housing|Energy|D5 [Share]:
+    description: Share of energy expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Energy|D6 [Share]: 
+    description: Share of energy expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Energy|D7 [Share]:
+    description: Share of energy expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Energy|D8 [Share]:
+    description: Share of energy expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Energy|D9 [Share]:
+    description: Share of energy expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D1 [Share]:
+    description: Share of housing expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D10 [Share]:
+    description: Share of housing expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D2 [Share]:
+    description: Share of housing expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D3 [Share]:
+    description: Share of housing expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D4 [Share]:
+    description: Share of housing expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D5 [Share]:
+    description: Share of housing expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D6 [Share]:
+    description: Share of housing expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D7 [Share]:
+    description: Share of housing expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D8 [Share]:
+    description: Share of housing expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Housing|D9 [Share]:
+    description: Share of housing expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D1 [Share]:
+    description: Share of water expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D10 [Share]:
+    description: Share of water expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D2 [Share]:
+    description: Share of water expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D3 [Share]:
+    description: Share of water expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D4 [Share]:
+    description: Share of water expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D5 [Share]:
+    description: Share of water expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D6 [Share]:
+    description: Share of water expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D7 [Share]:
+    description: Share of water expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D8 [Share]:
+    description: Share of water expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Housing|Water|D9 [Share]:
+    description: Share of water expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D1 [Share]: 
+    description: Share of ICT expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D10 [Share]: 
+    description: Share of ICT expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D2 [Share]: 
+    description: Share of ICT expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D3 [Share]: 
+    description: Share of ICT expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D4 [Share]: 
+    description: Share of ICT expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D5 [Share]: 
+    description: Share of ICT expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D6 [Share]: 
+    description: Share of ICT expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D7 [Share]: 
+    description: Share of ICT expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D8 [Share]: 
+    description: Share of ICT expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|ICT|D9 [Share]: 
+    description: Share of ICT expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+
+- Consumption|Miscellaneous|D1 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Miscellaneous|D10 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Miscellaneous|D2 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]   
+    sdg: 10
+- Consumption|Miscellaneous|D3 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Miscellaneous|D4 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Miscellaneous|D5 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Miscellaneous|D6 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Miscellaneous|D7 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Miscellaneous|D8 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Miscellaneous|D9 [Share]: 
+    description: Share of miscellaneous expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D1 [Share]: 
+    description: Share of recreation and culture expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D10 [Share]: 
+    description: Share of recreation and culture expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D2 [Share]:
+    description: Share of recreation and culture expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D3 [Share]:
+    description: Share of recreation and culture expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D4 [Share]:
+    description: Share of recreation and culture expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D5 [Share]:
+    description: Share of recreation and culture expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D6 [Share]:
+    description: Share of recreation and culture expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D7 [Share]:
+    description: Share of recreation and culture expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D8 [Share]:
+    description: Share of recreation and culture expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Recreation and culture|D9 [Share]:
+    description: Share of recreation and culture expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10 
+- Consumption|Restaurants and hotels|D1 [Share]: 
+    description: Share of restaurants and hotels expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Restaurants and hotels|D10 [Share]: 
+    description: Share of restaurants and hotels expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Restaurants and hotels|D2 [Share]:
+    description: Share of restaurants and hotels expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Restaurants and hotels|D3 [Share]:
+    description: Share of restaurants and hotels expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Restaurants and hotels|D4 [Share]:
+    description: Share of restaurants and hotels expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Restaurants and hotels|D5 [Share]:
+    description: Share of restaurants and hotels expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Restaurants and hotels|D6 [Share]:
+    description: Share of restaurants and hotels expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Restaurants and hotels|D7 [Share]:
+    description: Share of restaurants and hotels expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Restaurants and hotels|D8 [Share]:
+    description: Share of restaurants and hotels expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Restaurants and hotels|D9 [Share]:
+    description: Share of restaurants and hotels expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D1 [Share]: 
+    description: Share of transport expenditure in total income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D10 [Share]:
+    description: Share of transport expenditure in total income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D2 [Share]: 
+    description: Share of transport expenditure in total income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D3 [Share]:
+    description: Share of transport expenditure in total income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D4 [Share]:
+    description: Share of transport expenditure in total income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D5 [Share]:
+    description: Share of transport expenditure in total income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D6 [Share]:
+    description: Share of transport expenditure in total income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D7 [Share]:
+    description: Share of transport expenditure in total income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D8 [Share]:
+    description: Share of transport expenditure in total income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|Transport|D9 [Share]: 
+    description: Share of transport expenditure in total income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+
+- Income|D1 [Share]: 
+    description: Share of income for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D2 [Share]:
+    description: Share of income for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D3 [Share]:
+    description: Share of income for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D4 [Share]:
+    description: Share of income for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D5 [Share]:
+    description: Share of income for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D6 [Share]:
+    description: Share of income for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D7 [Share]:
+    description: Share of income for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D8 [Share]:
+    description: Share of income for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D9 [Share]:
+    description: Share of income for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D10 [Share]:
+    description: Share of income for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Income|D1 [Per capita]:
+    description: Per capita income for the first decile
+    unit: USD 2017
+    sdg: 10
+- Income|D2 [Per capita]:
+    description: Per capita income for the second decile
+    unit: USD 2017
+    sdg: 10
+- Income|D3 [Per capita]:
+    description: Per capita income for the third decile
+    unit: USD 2017
+    sdg: 10
+- Income|D4 [Per capita]:
+    description: Per capita income for the fourth decile
+    unit: USD 2017
+    sdg: 10
+- Income|D5 [Per capita]:
+    description: Per capita income for the fifth decile
+    unit: USD 2017
+    sdg: 10
+- Income|D6 [Per capita]:
+    description: Per capita income for the sixth decile
+    unit: USD 2017
+    sdg: 10
+- Income|D7 [Per capita]:
+    description: Per capita income for the seventh decile
+    unit: USD 2017
+    sdg: 10
+- Income|D8 [Per capita]:
+    description: Per capita income for the eighth decile
+    unit: USD 2017
+    sdg: 10
+- Income|D9 [Per capita]:
+    description: Per capita income for the ninth decile
+    unit: USD 2017
+    sdg: 10
+- Income|D10 [Per capita]:
+    description: Per capita income for the tenth decile
+    unit: USD 2017
+    sdg: 10
+
+- Consumption|D1 [Share]: 
+    description: Share of consumption for the first decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D2 [Share]:
+    description: Share of consumption for the second decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D3 [Share]:
+    description: Share of consumption for the third decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D4 [Share]:
+    description: Share of consumption for the fourth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D5 [Share]:
+    description: Share of consumption for the fifth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D6 [Share]:
+    description: Share of consumption for the sixth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D7 [Share]:
+    description: Share of consumption for the seventh decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D8 [Share]:
+    description: Share of consumption for the eighth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D9 [Share]:
+    description: Share of consumption for the ninth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D10 [Share]:
+    description: Share of consumption for the tenth decile
+    unit: '%'
+    range: [ 0, 100 ]
+    sdg: 10
+- Consumption|D1 [Per capita]:
+    description: Per capita consumption for the first decile
+    unit: USD 2017
+    sdg: 10
+- Consumption|D2 [Per capita]:
+    description: Per capita consumption for the second decile
+    unit: USD 2017
+    sdg: 10
+- Consumption|D3 [Per capita]:
+    description: Per capita consumption for the third decile
+    unit: USD 2017
+    sdg: 10
+- Consumption|D4 [Per capita]:
+    description: Per capita consumption for the fourth decile
+    unit: USD 2017
+    sdg: 10
+- Consumption|D5 [Per capita]:
+    description: Per capita consumption for the fifth decile
+    unit: USD 2017
+    sdg: 10
+- Consumption|D6 [Per capita]:
+    description: Per capita consumption for the sixth decile
+    unit: USD 2017
+    sdg: 10
+- Consumption|D7 [Per capita]:
+    description: Per capita consumption for the seventh decile
+    unit: USD 2017
+    sdg: 10
+- Consumption|D8 [Per capita]:
+    description: Per capita consumption for the eighth decile
+    unit: USD 2017
+    sdg: 10
+- Consumption|D9 [Per capita]:
+    description: Per capita consumption for the ninth decile
+    unit: USD 2017
+    sdg: 10
+- Consumption|D10 [Per capita]:
+    description: Per capita consumption for the tenth decile
+    unit: USD 2017
+    sdg: 10
+
 - Population|Informal Settlements:
     description: Number of people living in informal settlements, e.g., slums
     unit: million
